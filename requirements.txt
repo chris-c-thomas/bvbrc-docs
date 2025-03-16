@@ -2,7 +2,7 @@
 # pip3 install -r requirements.txt
 
 # Sphinx
-Sphinx==2.2.0
+Sphinx==3.0.4
 
 # Initial Theme
 sphinx-rtd-theme==0.4.3
